@@ -1,0 +1,31 @@
+.example {
+  background-image: url(image.jpg);
+}
+.example {
+  background-repeat: repeat-x; /* repeat the image horizontally */
+  background-repeat: repeat-y; /* repeat the image vertically */
+  background-repeat: no-repeat; /* do not repeat the image */
+}
+.example {
+  background-position: top left; /* position the image in the top left corner */
+  background-position: center; /* position the image in the center */
+  background-position: bottom right; /* position the image in the bottom right corner */
+}
+.example {
+  background-size: cover; /* scale the image to cover the entire element */
+  background-size: contain; /* scale the image to fit inside the element */
+  background-size: 100% auto; /* scale the image to 100% of the element's width and the natural height */
+}
+<img src="image.jpg" alt="image">
+img {
+  width: 100px;
+  height: 200px;
+}
+img {
+  object-fit: cover; /* scale the image to cover the entire element */
+  object-fit: contain; /* scale the image to fit inside the element */
+  object-fit: fill; /*  scales the image to completely fill the element, cropping if necessary */
+}
+.example {
+  border-image: url(border.png) 30 30 round;
+}
