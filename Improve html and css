@@ -1,0 +1,443 @@
+
+Clarify Request Unclear
+
+
+Adarsh Verma
+One day of limits chatgpt chat
+
+I'm sorry, I'm not sure what you mean by "one day of limits". Could you please provide more information or clarify your question?
+
+
+
+
+Adarsh Verma
+One user limit chat you one day 
+
+I'm sorry, I'm not sure what you mean by "one user limit chat you one day". Could you please provide more information or clarify your question?
+
+
+
+
+Adarsh Verma
+Full css cheet sheet 
+
+I'm sorry, I don't have a full CSS cheat sheet to provide you. However, here are some common CSS properties and their uses:
+
+background-color: sets the background color of an element
+color: sets the text color of an element
+font-family: sets the font for an element
+font-size: sets the font size for an element
+text-align: sets the alignment of text within an element (left, right, center, justify)
+padding: sets the padding (space) within an element
+margin: sets the margin (space) outside an element
+border: sets a border around an element
+width: sets the width of an element
+height: sets the height of an element
+display: sets how an element should be displayed (block, inline, none)
+position: sets the position of an element (static, absolute, fixed, relative)
+This is just a small sample of the many properties and values that you can use in CSS. For more detailed information and examples, you can refer to resources such as Mozilla Developer Network (MDN) or W3Schools.
+
+
+
+
+Adarsh Verma
+Please write in code
+
+Sure, here is an example of some common CSS properties used to style a div element with the class "example":
+
+Copy code
+.example {
+    background-color: #F5A623;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    width: 300px;
+    height: 100px;
+    display: block;
+    position: relative;
+}
+This is just an example, you can use any values or properties you need or want.
+Please let me know if you need more help.
+
+
+
+
+Adarsh Verma
+css cheat sheet in code
+
+Sure, here is a CSS cheat sheet with a list of some common properties and their values:
+
+Copy code
+/* Text styling */
+font-size: 16px;
+font-family: Arial, sans-serif;
+font-weight: bold;
+text-align: center;
+text-decoration: underline;
+color: #333333;
+
+/* Background */
+background-color: #F5A623;
+
+/* Box Model */
+width: 100px;
+height: 100px;
+padding: 20px;
+margin: 20px;
+border: 2px solid black;
+border-radius: 10px;
+
+/* Display and Positioning */
+display: block;
+position: relative;
+float: left;
+clear: both;
+
+/* List */
+list-style-type: square;
+
+/* Table */
+border-collapse: collapse;
+border-spacing: 0;
+
+/* Other */
+overflow: hidden;
+cursor: pointer;
+This is just a small sample of the many properties and values that you can use in CSS. This list should give you a good starting point, but you may need to refer to more detailed resources such as MDN or W3Schools for more information on specific properties and values.
+Please let me know if you need more help.
+
+
+
+
+Adarsh Verma
+Please all css properties in code
+
+I apologize, but it would be impractical to list all the CSS properties in code. There are hundreds of properties defined in the CSS specifications and new ones are added over time.
+
+CSS properties are used to apply styles to HTML elements. They can be used to control layout, colors, fonts, and many other visual aspects of a webpage.
+
+I recommend checking out resources such as the Mozilla Developer Network (MDN) or W3Schools. They have a comprehensive list of all the CSS properties along with their description, usage, and examples.
+
+If you have any specific CSS property in mind and need more information, feel free to ask me and I will try to assist you.
+
+
+
+
+Adarsh Verma
+Ok i am sorry
+
+No worries, I'm happy to help. Let me know if you have any other questions or if there's anything else I can assist you with.
+
+
+
+
+Adarsh Verma
+All css property for background in code
+
+Sure, here is a list of some common CSS properties that can be used to style the background of an element:
+
+Copy code
+/* background-color */
+background-color: #F5A623;
+
+/* background-image */
+background-image: url("image.jpg");
+
+/* background-repeat */
+background-repeat: no-repeat;
+background-repeat: repeat-x;
+background-repeat: repeat-y;
+
+/* background-attachment */
+background-attachment: fixed;
+background-attachment: scroll;
+
+/* background-position */
+background-position: top left;
+background-position: center;
+background-position: bottom right;
+
+/* background shorthand property */
+background: #F5A623 url("image.jpg") no-repeat fixed center;
+The background-color property sets the background color of an element.
+The background-image property sets an image as the background of an element.
+The background-repeat property sets if/how a background image will be repeated.
+The background-attachment property sets whether a background image is fixed or scrolls with the rest of the page.
+The background-position property sets the starting position of a background image.
+The background shorthand property is used to set all the background properties in one line.
+
+Please let me know if you have any other questions.
+
+
+
+
+Adarsh Verma
+All css property for borders in code with example
+
+Sure, here is a list of some common CSS properties that can be used to style the borders of an element:
+
+Copy code
+/* border-width */
+border-width: 1px;
+border-top-width: 2px;
+border-right-width: 3px;
+border-bottom-width: 4px;
+border-left-width: 5px;
+
+/* border-style */
+border-style: solid;
+border-top-style: dotted;
+border-right-style: dashed;
+border-bottom-style: double;
+border-left-style: groove;
+
+/* border-color */
+border-color: #F5A623;
+border-top-color: red;
+border-right-color: green;
+border-bottom-color: blue;
+border-left-color: purple;
+
+/* border shorthand property */
+border: 1px solid #F5A623;
+border-top: 2px dotted red;
+border-right: 3px dashed green;
+border-bottom: 4px double blue;
+border-left: 5px groove purple;
+
+/* border-radius */
+border-radius: 10px;
+border-top-left-radius: 5px;
+border-top-right-radius: 15px;
+border-bottom-right-radius: 20px;
+border-bottom-left-radius: 25px;
+The border-width property sets the width of an element's border.
+The border-style property sets the style of an element's border.
+The border-color property sets the color of an element's border.
+The border shorthand property is used to set all the border properties in one line.
+The border-radius property sets the rounding of an element's border corners.
+
+For example:
+
+Copy code
+<div class="example">
+  <p>This is an example of a div with a border</p>
+</div>
+Copy code
+.example {
+    border: 2px solid #F5A623;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: #eee;
+}
+This is just an example, you can use any values or properties you need or want.
+Please let me know if you need more help.
+
+
+
+
+Adarsh Verma
+All gits commands in code
+
+Sure, here is a list of some common Git commands and their usage:
+
+Copy code
+# Initialize a new Git repository
+git init
+
+# Check the status of the current repository
+git status
+
+# Add one or more files to the staging area
+git add <file1> <file2> ...
+
+# Commit the changes in the staging area with a message
+git commit -m "Commit message"
+
+# View the commit history
+git log
+
+# Push the changes to a remote repository
+git push <remote> <branch>
+
+# Pull the changes from a remote repository
+git pull <remote> <branch>
+
+# Create a new branch and switch to it
+git branch <branch_name>
+git checkout <branch_name>
+
+# Switch to an existing branch
+git checkout <branch_name>
+
+# Merge changes from another branch into the current branch
+git merge <branch_name>
+
+# Delete a branch
+git branch -d <branch_name>
+
+# Clone a remote repository
+git clone <repository_url>
+These commands are just a small sample of the many Git commands that you can use. To learn more about Git, I recommend checking out resources such as the Git documentation or Pro Git book.
+Please let me know if you have any other questions or if there's anything else I can assist you with.
+
+
+
+
+Adarsh Verma
+Write top 60 git commands in code
+
+I apologize, but listing the top 60 Git commands in code would be impractical as it depends on the context and the usage. But I can provide you a list of some of the most commonly used Git commands and their usage:
+
+Copy code
+# initialize a git repository
+git init
+
+# check the status of the current repository
+git status
+
+# add all changes in the working directory to the staging area
+git add .
+
+# add specific files to the staging area
+git add <file1> <file2> ...
+
+# commit the changes in the staging area with a message
+git commit -m "Commit message"
+
+# view the commit history
+git log
+
+# view the commit history in a more readable format
+git log --pretty=oneline
+
+# view the commit history of a specific branch
+git log <branch_name>
+
+# view the difference between the working directory and the last commit
+git diff
+
+# view the difference between the staging area and the last commit
+git diff --staged
+
+# undo changes in a file
+git checkout <file>
+
+# undo changes in the working directory
+git reset
+
+# undo the last commit
+git reset HEAD~1
+
+# push the changes to a remote repository
+git push <remote> <branch>
+
+# pull the changes from a remote repository
+git pull <remote> <branch>
+
+# create a new branch and switch to it
+git branch <branch_name>
+git checkout <branch_name>
+
+# switch to an existing branch
+git checkout <branch_name>
+
+# merge changes from another branch into the current branch
+git merge <branch_name>
+
+# delete a branch
+git branch -d <branch_name>
+
+# clone a remote repository
+git clone <repository_url>
+
+# show remote repository
+git remote -v
+
+# rename branch
+git branch -m <newname>
+
+# show all branches
+git branch
+
+# show current branch
+git branch -vv
+
+#create alias for command
+git config --global alias.<alias-name> <git command>
+
+# show commit history graph
+git log --graph --oneline --decorate --all
+
+# show the last commit on each branch
+git branch -v --merged
+
+# show the last commit on each branch, including unmerged branches
+git branch -vv
+
+# check the difference between the working directory and the last commit
+git diff
+
+# check the difference between the staging area and the last commit
+git diff --staged
+
+# check the difference between two branches
+git diff <branch1> <branch2>
+
+# check the difference between the working directory and a branch
+git diff <branch>
+
+# show the changes in a commit
+git show <commit>
+
+# show the changes in the last commit
+git show
+
+# show the changes in a specific file in a commit
+git show <commit>:<file>
+
+# show the changes in a specific file in the last commit
+git show :<file>
+
+# show the list of tags
+git tag
+
+# create a new tag
+git tag <tag_name>
+
+# create a new tag with a message
+git tag -a <tag_name> -m "Tag message"
+
+# show the changes between two tags
+git diff <tag1> <tag2>
+
+# show the changes between a tag and the current branch
+git diff <
+
+
+
+Adarsh Verma
+How to improve html and css skill fast and easy way
+
+There are several ways you can improve your HTML and CSS skills quickly and easily. Here are a few suggestions:
+
+Practice: The best way to improve your skills is to practice building websites and experimenting with different HTML and CSS techniques. There are many resources available online, such as CodePen, that allow you to quickly create and test small HTML and CSS snippets.
+
+Learn from others: Look at the source code of websites you like and try to understand how they are built. You can also find inspiration from other developers' work by browsing through sites like GitHub and CodePen.
+
+Learn from tutorials and online courses: There are many tutorials and online courses that can help you learn HTML and CSS. Websites like Codecademy, FreeCodeCamp, and Udemy have a wide range of courses that can help you improve your skills.
+
+Use a CSS framework: Using a CSS framework like Bootstrap can help you quickly create responsive and visually appealing websites. It provides a set of pre-designed CSS classes that you can use to build your website.
+
+Join a community: Joining an online community of developers, such as Stack Overflow, or social media groups of web developers can help you find answers to your questions and connect with other people who are also learning HTML and CSS.
+
+Read documentation: The W3C and MDN documentation are great resources for understanding HTML and CSS concepts and properties.
+
+Build a project: Create a small project, such as a website for a local business or a personal portfolio, that allows you to practice and apply the skills you've learned.
+
+Remember, learning HTML and CSS takes time and practice, but by following these tips and being persistent, you can improve your skills quickly and easily.
