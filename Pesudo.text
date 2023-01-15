@@ -1,0 +1,16 @@
+/* Pseudo-classes */
+:hover { /* applies when the element is hovered over */ }
+:active { /* applies when the element is being activated (e.g. clicked on) */ }
+:focus { /* applies when the element has focus (e.g. in a form) */ }
+:visited { /* applies to links that have been visited */ }
+:first-child { /* applies to the first child element of its parent */ }
+:last-child { /* applies to the last child element of its parent */ }
+:nth-child(n) { /* applies to the nth child element of its parent */ }
+:not(selector) { /* negates the given selector */ }
+
+/* Pseudo-elements */
+::before { /* inserts content before the selected element */ }
+::after { /* inserts content after the selected element */ }
+::first-letter { /* applies styles to the first letter of the selected element */ }
+::first-line { /* applies styles to the first line of the selected element */ }
+::selection { /* applies styles to the selected text */ }
