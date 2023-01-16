@@ -1,95 +1,24 @@
-
-CSS Display Property Code
-
-
-Adarsh Verma
-All css property for display write in code
-
-2 / 2
-
-
-display: block;
-display: inline;
-display: inline-block;
-display: none;
-display: flex;
-display: grid;
-display: inline-grid;
-display: table;
-display: table-cell;
-display: table-row;
-display: table-caption;
-display: run-in;
-display: list-item;
-display: flow-root;
-display: contents;
-display: -webkit-box;
-display: -ms-flexbox;
-display: -webkit-flex;
-display: -moz-box;
-display: -moz-inline-block;
-display: -moz-inline-box;
-display: -moz-inline-grid;
-display: -moz-inline-stack;
-display: -moz-inline-table;
-display: -moz-grid;
-display: -moz-grid-group;
-display: -moz-grid-line;
-display: -moz-stack;
-display: -moz-deck;
-display: -moz-popup;
-display: -moz-groupbox;
-display: -webkit-inline-box;
-display: -webkit-inline-flex;
-display: -webkit-inline-grid;
-display: -webkit-inline-table;
-display: -ms-inline-flexbox;
-display: -ms-grid;
-display: -ms-inline-grid;
-display: -ms-flex;
-display: -ms-inline-flex;
-display: -o-box;
-display: -o-inline-box;
-display: -o-inline-grid;
-display: -o-inline-table;
-display: -o-grid;
-display: -o-stack;
-display: -o-min-content;
-display: -o-max-content;
-display: -o-fit-content;
-display: -o-fill-available;
-display: -o-stretch;
-display: -webkit-box;
-display: -webkit-inline-box;
-display: -webkit-flex;
-display: -webkit-inline-flex;
-display: -webkit-grid;
-display: -webkit-inline-grid;
-display: -webkit-table;
-display: -webkit-inline-table;
-display: -moz-box;
-display: -moz-inline-block;
-display: -moz-inline-box;
-display: -moz-inline-grid;
-display: -moz-inline-stack;
-display: -moz-inline-table;
-display: -moz-grid;
-display: -moz-grid-group;
-display: -moz-grid-line;
-display: -moz-stack;
-display: -moz-deck;
-display: -moz-popup;
-display: -moz-groupbox;
-display: -webkit-inline-box;
-display: -webkit-inline-flex;
-display: -webkit-inline-grid;
-display: -webkit-inline-table;
-display: -ms-inline-flexbox;
-display: -ms-grid;
-display: -ms-inline-grid;
-display: -ms-flex;
-display: -ms-inline-flex;
-display: -o-box;
-display: -o-inline-box;
-display: -o-inline-grid;
-display: -o-inline-
+div {
+    display: block;         /* This sets the display property to "block", which makes the element a block-level element */
+    display: inline;        /* This sets the display property to "inline", which makes the element an inline-level element */
+    display: inline-block;  /* This sets the display property to "inline-block", which makes the element an inline-level element but allows for height and width properties to be set */
+    display: flex;          /* This sets the display property to "flex", which makes the element a flex container */
+    display: grid;          /* This sets the display property to "grid", which makes the element a grid container */
+    display: none;          /* This sets the display property to "none", which makes the element not visible on the page */
+    display: table;         /* This sets the display property to "table", which makes the element behave like a table element */
+    display: table-cell;    /* This sets the display property to "table-cell", which makes the element behave like a table cell element */
+    display: table-row;     /* This sets the display property to "table-row", which makes the element behave like a table row element */
+    display: table-caption; /* This sets the display property to "table-caption", which makes the element behave like a table caption element */
+    display: table-header-group;  /* This sets the display property to "table-header-group", which makes the element behave like a table header group element */
+    display: table-footer-group;  /* This sets the display property to "table-footer-group", which makes the element behave like a table footer group element */
+    display: table-row-group;     /* This sets the display property to "table-row-group", which makes the element behave like a table row group element */
+    display: table-column;        /* This sets the display property to "table-column", which makes the element behave like a table column element */
+    display: table-column-group;  /* This sets the display property to "table-column-group", which makes the element behave like a table column group element */
+    display: list-item;           /* This sets the display property to "list-item", which makes the element behave like a list item element */
+    display: run-in;              /* This sets the display property to "run-in", which makes the element behave like a run-in element */
+    display: flow-root;           /* This sets the display property to "flow-root", which makes the element a flow-root container */
+    display: contents;            /* This sets the display property to "contents", which makes the element a replaced element */
+    display: initial;             /* This sets the display property to the initial value */
+    display: inherit;             /* This sets the display property to the value of the parent element */
+    display: unset;               /* This sets the display property to the value of the parent element if it is set, otherwise the initial value */
+}
