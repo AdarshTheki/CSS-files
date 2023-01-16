@@ -1,0 +1,24 @@
+.my-element {
+    /* Sets the positioning method for the element. 
+    Possible values: static | relative | absolute | fixed | sticky */
+    position: absolute; 
+    
+    /* Sets the top position of the element, relative to its containing block.
+    Values can be in length (px, em, etc) or percentage */
+    top: 10px; 
+    
+    /* Sets the right position of the element, relative to its containing block.
+    Values can be in length (px, em, etc) or percentage */
+    right: 20px; 
+    
+    /* Sets the bottom position of the element, relative to its containing block.
+    Values can be in length (px, em, etc) or percentage */
+    bottom: 30px; 
+    
+    /* Sets the left position of the element, relative to its containing block.
+    Values can be in length (px, em, etc) or percentage */
+    left: 40px; 
+    
+    /* Sets the stack order of the element. Elements with a higher z-index will appear on top of elements with a lower z-index */
+    z-index: 1; 
+}
