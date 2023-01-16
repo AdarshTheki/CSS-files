@@ -1,0 +1,62 @@
+.my-element {
+    /* Sets the positioning method for the element. 
+    Possible values: static | relative | absolute | fixed | sticky */
+    position: absolute; 
+    
+    /* Sets the top position of the element, relative to its containing block.
+    Values can be in length (px, em, etc) or percentage */
+    top: 10px; 
+    
+    /* Sets the right position of the element, relative to its containing block.
+    Values can be in length (px, em, etc) or percentage */
+    right: 20px; 
+    
+    /* Sets the bottom position of the element, relative to its containing block.
+    Values can be in length (px, em, etc) or percentage */
+    bottom: 30px; 
+    
+    /* Sets the left position of the element, relative to its containing block.
+    Values can be in length (px, em, etc) or percentage */
+    left: 40px; 
+    
+    /* Sets the stack order of the element. Elements with a higher z-index will appear on top of elements with a lower z-index */
+    z-index: 1; 
+}
+
+
+
+/* Absolute positioning */
+.absolute-element {
+    /* Sets the positioning method for the element to absolute */
+    position: absolute; 
+    
+    /* Sets the top position of the element, relative to its nearest positioned ancestor */
+    top: 10px; 
+    
+    /* Sets the right position of the element, relative to its nearest positioned ancestor */
+    right: 20px; 
+    
+    /* Sets the bottom position of the element, relative to its nearest positioned ancestor */
+    bottom: 30px; 
+    
+    /* Sets the left position of the element, relative to its nearest positioned ancestor */
+    left: 40px; 
+}
+
+/* Relative positioning */
+.relative-element {
+    /* Sets the positioning method for the element to relative */
+    position: relative; 
+    
+    /* Shifts the top position of the element, relative to its original position */
+    top: 10px; 
+    
+    /* Shifts the right position of the element, relative to its original position */
+    right: 20px; 
+    
+    /* Shifts the bottom position of the element, relative to its original position */
+    bottom: 30px; 
+    
+    /* Shifts the left position of the element, relative to its original position */
+    left: 40px; 
+}
