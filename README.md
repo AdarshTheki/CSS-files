@@ -10,7 +10,7 @@
 
 5. **Join a community:** Joining an online community of developers, such as Stack Overflow, or social media groups of web developers can help you find answers to your questions and connect with other people who are also learning HTML and CSS.
 
-6. **Read documentation:** The W3C and MDN documentation are great resources for understanding HTML and CSS concepts and properties.
+6. **Read documentation:** The **W3:** https://www.w3schools.com and **MDN:** https://developer.mozilla.org documentation are great resources for understanding HTML and CSS concepts and properties.
 
 7. **Build a project:** Create a small project, such as a website for a local business or a personal portfolio, that allows you to practice and apply the skills you've learned.
 
