@@ -1,0 +1,18 @@
+Sure, here is a list of some common CSS properties that can be used to style the background of an element:
+
+background-color: #F5A623;          /* background-color */
+
+background-image: url("image.jpg"); /* background-image */
+
+background-repeat: no-repeat;       /* background-repeat */
+background-repeat: repeat-x;
+background-repeat: repeat-y;
+
+background-attachment: fixed;        /* background-attachment */
+background-attachment: scroll;
+
+background-position: top left;       /* background-position */
+background-position: center;
+background-position: bottom right;
+
+background: #F5A623 url("image.jpg") no-repeat fixed center;  /* background shorthand property */
