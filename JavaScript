@@ -1,0 +1,20 @@
+
+Todo List - a simple web application that allows users to add, edit, and delete items from a to-do list.
+
+Calculator - a web application that allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
+
+Pomodoro Timer - a web application that helps users manage their time by using the Pomodoro Technique.
+
+Weather App - a web application that allows users to view the current weather conditions for a specified location.
+
+Quiz App - a web application that allows users to take quizzes on various topics and view their results.
+
+Image Gallery - a web application that allows users to view and interact with a collection of images.
+
+Stopwatch - a web application that allows users to start, stop, and reset a timer.
+
+Currency Converter - a web application that allows users to convert between different currencies.
+
+Budget Tracker - a web application that allows users to track their income and expenses.
+
+Music Player - a web application that allows users to play and control music.
