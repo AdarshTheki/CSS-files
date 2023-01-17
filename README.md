@@ -16,7 +16,7 @@
 
 Remember, learning HTML and CSS takes time and practice, but by following these tips and being persistent, you can improve your skills quickly and easily.
 
-# General list and specific topics for Java
+# General line-wise topics for JavaScript:
 
 <ol type="1">
   <li>Variables and data types </li>
@@ -29,4 +29,32 @@ Remember, learning HTML and CSS takes time and practice, but by following these 
   <li>JavaScript libraries and frameworks (jQuery, React, Angular, etc.)</li>
   <li>Asynchronous programming (Promises, async/await)</li>
   <li>JavaScript best practices and performance optimization</li>
+</ol>
+
+# General line-wise topics for CSS:
+<ol type="1">
+  <li>Selectors and cascading</li>
+  <li>Box model and layout</li>
+  <li>Display and visibility</li>
+  <li>Positioning and z-index</li>
+  <li>Flexbox and grid layout</li>
+  <li>CSS Transitions and animations</li>
+  <li>Responsive design and media queries</li>
+  <li>CSS preprocessors (Sass, Less)</li>
+  <li>CSS frameworks (Bootstrap, Foundation)</li>
+  <li>CSS best practices and performance optimization</li>
+</ol>
+
+# CSS line-wise Properties list:
+<ol>
+  <li>Box model properties (width, height, padding, margin, border)</li>
+  <li>Display properties (display, visibility, overflow)</li>
+  <li>Positioning properties (position, top, bottom, left, right, z-index)</li>
+  <li>Flexbox and grid layout properties (flex, flex-wrap, flex-direction, grid, grid-template, grid-area)</li>
+  <li>Text properties (font-size, font-family, color, text-align, text-transform, text-decoration)</li>
+  <li>Background properties (background-color, background-image, background-repeat, background-position)</li>
+  <li>Border properties (border-color, border-width, border-style, border-radius)</li>
+  <li>Transition and animation properties (transition, animation)</li>
+  <li>Responsive design properties (media queries, @media, min-width, max-width, @viewport)</li>
+  <li>Misc properties (cursor, pointer-events, overflow-x, overflow-y)</li>
 </ol>
