@@ -15,3 +15,18 @@
 7. **Build a project:** <br> Create a small project, such as a website for a local business or a personal portfolio, that allows you to practice and apply the skills you've learned.
 
 Remember, learning HTML and CSS takes time and practice, but by following these tips and being persistent, you can improve your skills quickly and easily.
+
+# General list and specific topics for Java
+
+<ol type="1">
+  <li>Variables and data types </li>
+  <li>Control flow and loops</li>
+  <li>Functions and scope</li>
+  <li>Arrays and objects</li>
+  <li>DOM manipulation</li>
+  <li>Event handling</li>
+  <li>Form validation</li>
+  <li>JavaScript libraries and frameworks (jQuery, React, Angular, etc.)</li>
+  <li>Asynchronous programming (Promises, async/await)</li>
+  <li>JavaScript best practices and performance optimization</li>
+</ol>
