@@ -1,24 +1,14 @@
-/* Move an element 100 pixels to the right */
+/* 
+Move an element 100 pixels to the right 
+Scale an element to half its size 
+Rotate an element 45 degrees 
+Skew an element 30 degrees horizontally 
+Apply a 2D transformation matrix */
+
 .example {
   transform: translateX(100px);
-}
-
-/* Scale an element to half its size */
-.example {
   transform: scale(0.5);
-}
-
-/* Rotate an element 45 degrees */
-.example {
   transform: rotate(45deg);
-}
-
-/* Skew an element 30 degrees horizontally */
-.example {
   transform: skewX(30deg);
-}
-
-/* Apply a 2D transformation matrix */
-.example {
   transform: matrix(1.5, 0, 0, 1.5, 50, 50);
 }

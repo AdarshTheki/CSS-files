@@ -1,3 +1,4 @@
+JavaScript Small Projects for Bignears:
 
 Todo List - a simple web application that allows users to add, edit, and delete items from a to-do list.
 

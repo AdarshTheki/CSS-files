@@ -1,0 +1,19 @@
+animation: <name> <duration> <timing-function> <delay> <iteration-count> <direction>;
+
+background: <color> <image> <repeat> <attachment> <position>  
+
+Position : static | relative | absolute | fixed | sticky
+
+animation: example 5s ease-in 2s 3 normal;
+background: #F5A623 url("image.jpg") no-repeat fixed center;  
+margin: 10px 20px 30px 40px;
+padding: 10px 20px 30px 40px;
+border: 5px solid black;
+border-radius: round / 2px;
+position: absolute; 
+top: 10px; 
+transform: translateX(100px);
+transform: scale(0.5);
+transform: rotate(45deg);
+transform: skewX(30deg);
+transform: matrix(1.5, 0, 0, 1.5, 50, 50);

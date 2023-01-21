@@ -1,24 +1,20 @@
-.example {
-  margin: 10px; /* sets 10px for top, right, bottom, left */
-  margin: 10px 20px; /* sets 10px for top and bottom, 20px for right and left */
-  margin: 10px 20px 30px; /* sets 10px for top, 20px for right and left, 30px for bottom */
-  margin: 10px 20px 30px 40px; /* sets 10px for top, 20px for right, 30px for bottom, 40px for left */
-}
+/* Margin, Padding and Border proprties */
+
+margin: 10px 20px 30px 40px;
+padding: 10px 20px 30px 40px;
+border: 5px solid black;
+border-radius: round / 2px;
+
+/*
+sets 10px for top, right, bottom, left 
+sets 10px for top and bottom, 20px for right and left 
+sets 10px for top, 20px for right and left, 30px for bottom 
+sets 10px for top, 20px for right, 30px for bottom, 40px for left 
+*/
 .example {
   margin-top: 10px;
   margin-right: 20px;
   margin-bottom: 30px;
   margin-left: 40px;
 }
-.example {
-  padding: 10px; /* sets 10px for top, right, bottom, left */
-  padding: 10px 20px; /* sets 10px for top and bottom, 20px for right and left */
-  padding: 10px 20px 30px; /* sets 10px for top, 20px for right and left, 30px for bottom */
-  padding: 10px 20px 30px 40px; /* sets 10px for top, 20px for right, 30px for bottom, 40px for left */
-}
-.example {
-  padding-top: 10px;
-  padding-right: 20px;
-  padding-bottom: 30px;
-  padding-left: 40px;
-}
+
