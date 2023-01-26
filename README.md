@@ -15,57 +15,52 @@ Using a CSS framework like Bootstrap can help you quickly create responsive and 
 5. **Join a community:** <br> 
 Joining an online community of developers, such as Stack Overflow, or social media groups of web developers can help you find answers to your questions and connect with other people who are also learning HTML and CSS.
 
-6. **Read documentation:** <br> 
-**W3:** https://www.w3schools.com <br> 
-**MDN:** https://developer.mozilla.org <br> 
+6. **Read documentation:** <br>
+Track your progress with the free `My Learning` program here at **[W3Schools](https://www.w3schools.com)** <br> 
+Resources for Developers,by Developers **[MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)** <br> 
 documentation are great resources for understanding HTML and CSS concepts and properties.
 
 7. **Build a project:** <br> 
-Create a small project, such as a website for a local business or a personal portfolio, that allows you to practice and apply the skills you've learned.
+>   Create a small project, such as a website for a local business or a personal portfolio, that allows you to practice and apply the skills you've learned.
 
-Remember, learning HTML and CSS takes time and practice, but by following these tips and being persistent, you can improve your skills quickly and easily.
+>   Remember, learning HTML and CSS takes time and practice, but by following these tips and being persistent, you can improve your skills quickly and easily.
 
 # General line-wise topics for JavaScript:
 
-<ol type="1">
-  <li>Variables and data types </li>
-  <li>Control flow and loops</li>
-  <li>Functions and scope</li>
-  <li>Arrays and objects</li>
-  <li>DOM manipulation</li>
-  <li>Event handling</li>
-  <li>Form validation</li>
-  <li>JavaScript libraries and frameworks (jQuery, React, Angular, etc.)</li>
-  <li>Asynchronous programming (Promises, async/await)</li>
-  <li>JavaScript best practices and performance optimization</li>
-</ol>
+1.  Variables and data types 
+2.  2Control flow and loops
+3.  Functions and scope
+4.  Arrays and objects
+5.  DOM manipulation
+6.  Event handling
+7.  Form validation
+8.  JavaScript libraries and frameworks (jQuery, React, Angular, etc.)
+9.  Asynchronous programming (Promises, async/await)
+10. JavaScript best practices and performance optimization
 
 # General line-wise topics for CSS:
 
-<ol type="1">
-  <li>Selectors and cascading</li>
-  <li>Box model and layout</li>
-  <li>Display and visibility</li>
-  <li>Positioning and z-index</li>
-  <li>Flexbox and grid layout</li>
-  <li>CSS Transitions and animations</li>
-  <li>Responsive design and media queries</li>
-  <li>CSS preprocessors (Sass, Less)</li>
-  <li>CSS frameworks (Bootstrap, Foundation)</li>
-  <li>CSS best practices and performance optimization</li>
-</ol>
+1.  Selectors and cascading
+2.  Box model and layout
+3.  Display and visibility
+4.  Positioning and z-index
+5.  Flexbox and grid layout
+6.  CSS Transitions and animations
+7.  Responsive design and media queries
+8.  CSS preprocessors (Sass, Less)
+9.  CSS frameworks (Bootstrap, Foundation)
+10. CSS best practices and performance optimization
 
 # CSS line-wise Properties list:
 
-<ol>
-  <li>Box model properties (width, height, padding, margin, border)</li>
-  <li>Display properties (display, visibility, overflow)</li>
-  <li>Positioning properties (position, top, bottom, left, right, z-index)</li>
-  <li>Flexbox and grid layout properties (flex, flex-wrap, flex-direction, grid, grid-template, grid-area)</li>
-  <li>Text properties (font-size, font-family, color, text-align, text-transform, text-decoration)</li>
-  <li>Background properties (background-color, background-image, background-repeat, background-position)</li>
-  <li>Border properties (border-color, border-width, border-style, border-radius)</li>
-  <li>Transition and animation properties (transition, animation)</li>
-  <li>Responsive design properties (media queries, @media, min-width, max-width, @viewport)</li>
-  <li>Misc properties (cursor, pointer-events, overflow-x, overflow-y)</li>
-</ol>
+1.  Box model properties (width, height, padding, margin, border)
+2.  Display properties (display, visibility, overflow)
+3.  Positioning properties (position, top, bottom, left, right, z-index)
+4.  Flexbox and grid layout properties (flex, flex-wrap, flex-direction, grid, grid-template, grid-area)
+5.  Text properties (font-size, font-family, color, text-align, text-transform, text-decoration)
+6.  Background properties (background-color, background-image, background-repeat, background-position)
+7.  Border properties (border-color, border-width, border-style, border-radius)
+8.  Transition and animation properties (transition, animation)
+9.  Responsive design properties (media queries, @media, min-width, max-width, @viewport)
+10. Misc properties (cursor, pointer-events, overflow-x, overflow-y)
+
