@@ -7,7 +7,7 @@ The best way to improve your skills is to practice building websites and experim
 Look at the source code of websites you like and try to understand how they are built. You can also find inspiration from other developers' work by browsing through sites like GitHub and CodePen.
 
 3. **Learn from tutorials and online courses:** <br> 
-There are many tutorials and online courses that can help you learn HTML and CSS. Websites like Codecademy, FreeCodeCamp, and Udemy have a wide range of courses that can help you improve your skills.
+There are many tutorials and online courses that can help you learn HTML and CSS. Websites like Codeacdemy, FreeCodeCamp, and Udemy have a wide range of courses that can help you improve your skills.
 
 4. **Use a CSS framework:** <br> 
 Using a CSS framework like Bootstrap can help you quickly create responsive and visually appealing websites. It provides a set of pre-designed CSS classes that you can use to build your website.
@@ -47,7 +47,7 @@ documentation are great resources for understanding HTML and CSS concepts and pr
 5.  Flexbox and grid layout
 6.  CSS Transitions and animations
 7.  Responsive design and media queries
-8.  CSS preprocessors (Sass, Less)
+8.  CSS preprocessor (Sass, Less)
 9.  CSS frameworks (Bootstrap, Foundation)
 10. CSS best practices and performance optimization
 
